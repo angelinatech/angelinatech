@@ -1,4 +1,4 @@
-![TECH (1)](https://github.com/angelinatech/angelinatech/assets/130837613/a764297d-5422-424a-ac45-283af409cb74)
+![Tech Icons Background Header](https://github.com/angelinatech/angelinatech/assets/130837613/e36c5e54-96fe-4951-bede-a065a31818cc)
 
 ### Oh hi! 👋!
 
