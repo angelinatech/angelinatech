@@ -1,4 +1,3 @@
-![Tech Icons Background Header](https://github.com/angelinatech/angelinatech/assets/130837613/e36c5e54-96fe-4951-bede-a065a31818cc)
 
 ### Oh hi! 👋!
 
