@@ -1,9 +1,7 @@
 
 ### Oh hi! 👋!
 
-I'm Angel, a software engineer from the U.K. I mainly focus on the PERN stack and front-end frameworks. I'm a big fan of creating opportunities in tech for people as yet underrepresented in our industry and I believe strongly in open source and the importance of ethical technology.
-
-👯 I’d love to collaborate on projects with an emphasis on accessibility and education, or generally good things for the world :blush: 
+I'm Angel, a software engineer from the U.K.I wrk mainly in green tech and I believe strongly in open source and the importance of ethical technology.
 
 reach me here: 
 [AngelinaTech](https://angelinatech.com)
