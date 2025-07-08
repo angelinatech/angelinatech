@@ -1,7 +1,7 @@
 
 ### Oh hi! 👋!
 
-I'm Angel, a software engineer from the U.K.I wrk mainly in green tech and I believe strongly in open source and the importance of ethical technology.
+I'm Angel, a software engineer from the U.K.I work mainly in green tech and I believe strongly in open source and the importance of ethical technology.
 
 reach me here: 
 [AngelinaTech](https://angelinatech.com)
